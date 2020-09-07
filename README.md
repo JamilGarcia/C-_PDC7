@@ -1,4 +1,4 @@
-# Ejemplo de static_cast vs dynamic_cast
+# Herencia y Polimorfismo
 
 ## :copyright: Autor
 
